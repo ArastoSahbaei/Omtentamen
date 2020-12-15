@@ -7,7 +7,7 @@ För betyget: GODKÄNT
 1.	Du behövar klona en färdig mall av ett tidigare projekt som du sedan skall utfylla och därefter ladda upp till en egen förvaringsplats. (repository)
 
 Nedanför finner du instruktioner för att hämta den färdiga mallen:
-a).  Kör kommandot: git clone https://github.com/ArastoSahbaei/tentamen.git
+a).  Kör kommandot: git clone https://github.com/ArastoSahbaei/Omtentamen.git
 
 b). Öppna projektet och navigera dig till /src i terminalen
 
